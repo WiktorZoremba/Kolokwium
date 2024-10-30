@@ -1,0 +1,10 @@
+.
+├── backup
+├── kolokwium
+├── README.md
+├── sciezka.txt
+├── struktura_katalogow.txt
+├── wynik.txt
+└── zadanie
+
+3 directories, 5 files
